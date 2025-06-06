@@ -13,7 +13,7 @@ The planned architecture includes:
 
 1. **API Specification** – Enables auto-generation of both server and client code.
 2. **API Implementation** – Built using the above specification as the foundation.
-3. **Factorio Mod** – Provides access to all necessary in-game actions.
+3. **Factorio Mod** – Provides access to all necessary in-game actions and data.
 4. **Containerized Deployment** – Bundles the Factorio headless server, the custom mod, and the API into a single container.
 
 ### Collaboration
