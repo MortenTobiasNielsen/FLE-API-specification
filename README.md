@@ -18,6 +18,6 @@ The planned architecture includes:
 
 ### Collaboration
 
-I've created issues to outline the different layers of the architecture. Feedback is welcome—especially on architecture, feature set, CI/CD, and more.
+I've created issues to outline the different layers of the architecture. Feedback is welcome—especially on architecture, feature set, CI/CD, etc.
 
 Feel free to create new issues if you notice missing elements or want to focus discussion on a specific topic.
