@@ -1,5 +1,5 @@
 
-# FLE API Specification
+# FLE [(Factorio Learning Environment)](https://jackhopkins.github.io/factorio-learning-environment/) API Specification
 
 This is a temporary project to explore and discuss the features, technologies, and overall design of a (could be) future FLE API.
 
